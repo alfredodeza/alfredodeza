@@ -18,6 +18,11 @@ You can find my [personal website](https://alfredodeza.com) interesting, and you
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Regression → Working with Data](https://www.youtube.com/watch?v=11AnOn_OAcE)
+- [Get Hired! → Interviewing](https://www.youtube.com/watch?v=mwACABWPzb4)
+- [Get Hired! → Career strategy](https://www.youtube.com/watch?v=bCMoSD-qj2Y)
+- [Intro to Regression - Machine Learning For Beginners](https://www.youtube.com/watch?v=5QnJtDad4iQ)
+- [Setup your Data Science environment](https://www.youtube.com/watch?v=yyQM70vi7V8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <!--
