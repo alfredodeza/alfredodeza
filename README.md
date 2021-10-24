@@ -18,11 +18,11 @@ You can find my [personal website](https://alfredodeza.com) interesting, and you
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Get Hired! → Online Portfolio](https://www.youtube.com/watch?v=lz6ScLnZpW0)
 - [MLOps Maturity Model](https://www.youtube.com/watch?v=0TUct3EvGd8)
 - [Blast off with Python Series: Conditionals and variables](https://www.youtube.com/watch?v=1cIMLGUsYvA)
 - [Regression → Working with Data](https://www.youtube.com/watch?v=11AnOn_OAcE)
 - [Get Hired! → Interviewing](https://www.youtube.com/watch?v=mwACABWPzb4)
-- [Get Hired! → Career strategy](https://www.youtube.com/watch?v=bCMoSD-qj2Y)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <!--
