@@ -21,13 +21,13 @@ You can find my [personal website](https://alfredodeza.com) interesting, and you
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Pass the Azure Fundamentals certification exam!](https://www.youtube.com/watch?v=6F3El6zuUm0)
 - [Despegando Con Python! ¡Crea tu primer programa en Python!](https://www.youtube.com/watch?v=D7E-1SIN-jk)
 - [Despegando Con Python! Funciones y Módulos](https://www.youtube.com/watch?v=51npm0NCNXk)
 - [Remote Kubernetes Environment](https://www.youtube.com/watch?v=spdyUazZ57M)
 - [Build a useful Python Decorator](https://www.youtube.com/watch?v=rSRT_eRTBIM)
 - [Create a Vim Plugin from scratch!](https://www.youtube.com/watch?v=x9633RtLnyA)
 - [Blast off with Python Series: Create Your First Python Program!](https://www.youtube.com/watch?v=opuNrvMRNSw)
-- [Blast off with Python Series: Functions and Modules](https://www.youtube.com/watch?v=4NMm9frfdQQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <!--
