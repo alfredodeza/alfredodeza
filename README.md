@@ -21,13 +21,13 @@ You can find my [personal website](https://alfredodeza.com) interesting, and you
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Azure web app deployment architectural diagram](https://www.youtube.com/watch?v=SXPMV8R6u0Q)
 - [SQL for CSV datasets using Databricks](https://www.youtube.com/watch?v=LI5BPFTmeNU)
 - [What does yield do in Python?](https://www.youtube.com/watch?v=NL3QuIQeVtk)
 - [Azure Databricks with Pandas and Open Datasets](https://www.youtube.com/watch?v=MZB8EFobzh4)
 - [What does if __name__ == "__main__": do?](https://www.youtube.com/watch?v=RVqmZ7Xwgy8)
 - [Build a Python CLI with argparse](https://www.youtube.com/watch?v=g2JGmA4vmoU)
 - [Easy Python CLI!](https://www.youtube.com/watch?v=DrmdOb-EEMw)
-- [February 4, 2022](https://www.youtube.com/watch?v=q0zGYmPSUzw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <!--
