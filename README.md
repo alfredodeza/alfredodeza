@@ -21,13 +21,13 @@ You can find my [personal website](https://alfredodeza.com) interesting, and you
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Use VSCode for the web](https://www.youtube.com/watch?v=_9gXA8Ign8o)
 - [Basic Conda commands for beginners](https://www.youtube.com/watch?v=O4YBRfriAZk)
 - [Run Python in GitHub Actions](https://www.youtube.com/watch?v=o2o_xF6NhD0)
 - [Python Dictionaries course](https://www.youtube.com/watch?v=Wu7j8z4B-1Y)
 - [SAMBA shares on Azure VMs](https://www.youtube.com/watch?v=0YrcplZVd8M)
 - [Azure Databricks with Pandas and Open Datasets](https://www.youtube.com/watch?v=hxJqn41bwp0)
 - [Azure Web Apps for containers](https://www.youtube.com/watch?v=xMqerRBUpCA)
-- [Python project structure for Azure web apps](https://www.youtube.com/watch?v=bSw_elmGrew)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <!--
