@@ -21,13 +21,13 @@ You can find my [personal website](https://alfredodeza.com) interesting, and you
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [MLOps packaging: HuggingFace and Azure Container Registry](https://www.youtube.com/watch?v=_n8JKdRFgog)
 - [MLOps packaging: HuggingFace and Docker Hub](https://www.youtube.com/watch?v=Jo98GLhw6BM)
 - [GitHub Codespaces with custom dotfiles](https://www.youtube.com/watch?v=H4B37bZdYsk)
 - [Automated deletion of Azure resources](https://www.youtube.com/watch?v=Nd4cwxROq30)
 - [Azure Login in GitHub Actions](https://www.youtube.com/watch?v=Z06OyG4i18w)
 - [Use VSCode for the web](https://www.youtube.com/watch?v=_9gXA8Ign8o)
 - [Basic Conda commands for beginners](https://www.youtube.com/watch?v=O4YBRfriAZk)
-- [Run Python in GitHub Actions](https://www.youtube.com/watch?v=o2o_xF6NhD0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <!--
