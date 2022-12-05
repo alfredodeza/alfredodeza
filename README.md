@@ -21,13 +21,13 @@ You can find my [personal website](https://alfredodeza.com) interesting, and you
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to deploy PostgreSQL on Azure](https://www.youtube.com/watch?v=AsL7MI8b0m4)
 - [Create Azure Functions with Flask and automation](https://www.youtube.com/watch?v=ldFJBzSH5cM)
 - [Azure Functions for the AZ-900 certification](https://www.youtube.com/watch?v=UfFpMJSDdGQ)
 - [MLOps packaging: HuggingFace and GitHub Container Registry](https://www.youtube.com/watch?v=UZ2oOJe9SP0)
 - [Ultimate development environment with VSCode web and Codespaces](https://www.youtube.com/watch?v=CDuXK8du26w)
 - [MLOps deployment to Azure Container Apps](https://www.youtube.com/watch?v=rXwR7LqDreg)
 - [MLOps packaging: HuggingFace and Azure Container Registry](https://www.youtube.com/watch?v=_n8JKdRFgog)
-- [MLOps packaging: HuggingFace and Docker Hub](https://www.youtube.com/watch?v=Jo98GLhw6BM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <!--
