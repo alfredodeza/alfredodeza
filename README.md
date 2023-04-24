@@ -13,7 +13,7 @@ I've published a few books:
 
 And I'm active on other social media like [LinkedIn](https://www.linkedin.com/in/alfredodeza).
 
-You can find my [personal website](https://alfredodeza.com) interesting, and you can reach me out to alfredo [at] deza.pe
+You can find my [personal website](https://www.alfredodeza.com) interesting, and you can reach me out to alfredo [at] deza.pe
 
 
 ## 📺 Latest YouTube Videos
