@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div align="right"> 
+
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://s.deza.pe/linkedin)
+
+</div>
 My name is Alfredo Deza and I'm a Cloud Advocate. When I was 11 old I decided to take on the world and 15 years later I managed to go to the Olympic Games in Athens.
 
 I've published a few books:
