@@ -26,13 +26,13 @@ You can find my [personal website](https://www.alfredodeza.com) interesting, and
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [AI-900 Get started with AI](https://www.youtube.com/watch?v=wNGMHhiIaNM)
 - [Setting up your Rust development environment](https://www.youtube.com/watch?v=hpfCOmZL6XM)
 - [Deploy Rust on Azure Functions](https://www.youtube.com/watch?v=cFAhdgwg5nc)
 - [Free! Develop on Linux with Codespaces](https://www.youtube.com/watch?v=qYIZqMhvgVc)
 - [Introduction to Azure AutoML using regression](https://www.youtube.com/watch?v=auQAXH0wtjo)
 - [How to deploy PostgreSQL on Azure](https://www.youtube.com/watch?v=AsL7MI8b0m4)
 - [Create Azure Functions with Flask and automation](https://www.youtube.com/watch?v=ldFJBzSH5cM)
-- [Azure Functions for the AZ-900 certification](https://www.youtube.com/watch?v=UfFpMJSDdGQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <!--
